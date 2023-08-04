@@ -10,7 +10,7 @@ void main() {
     var grade;
     calc(mar, a);
     print("do you want to continue:");
-    x = stdin.readLineSync()!;
+
   }
 }
   void calc(mar,a) {
